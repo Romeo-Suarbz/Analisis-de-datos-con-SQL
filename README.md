@@ -1,4 +1,4 @@
-## Contexto
+# Contexto
 
 El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente
 acogedor.
@@ -11,6 +11,8 @@ oportunidad y aprovechar al máximo sus datos para optimizar las ventas.
 
 Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que
 menos han gustado a los clientes.
+
+## Intrucciones
 
 Pasos a seguir
 a) Crear la base de datos con el archivo create_restaurant_db.sql
